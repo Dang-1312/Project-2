@@ -8,7 +8,7 @@ import string
 channel_ID = "2193827"
 
 # API Key write
-apiKey = "LSYSZNK2VG2ADI6W"
+apiKey = "***************"
 
 useUnsecuredTCP = False
 
@@ -20,9 +20,9 @@ useSSLWebsockets = True
 mqtt_host = "mqtt3.thingspeak.com"
 
 # Your MQTT credentials for the device
-mqtt_client_ID = "MhsLMCYkCQArLDkfNQ4xCi8"
-mqtt_username  = "MhsLMCYkCQArLDkfNQ4xCi8"
-mqtt_password  = "3wKBSoL7pZl2qI0kFqCMo8Ws"
+mqtt_client_ID = "***********************"
+mqtt_username  = "***********************"
+mqtt_password  = "**************************"
 
 tTransport = "websockets"
 tPort = 80
